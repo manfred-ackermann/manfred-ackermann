@@ -9,8 +9,6 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=manfred-ackermann&show_icons=true&hide_border=true" />
-
 <!--
 **manfred-ackermann/manfred-ackermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
