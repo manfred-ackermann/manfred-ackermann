@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Manfred - aka acki  👋
+
+## I'm a Husband, Father and SysOp/DevOp!!
+
+- I'm living in Málaga/Spain
+- I’m working for [rindus][rindus]
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
+
+[rindus]: https://rindus.es
 
 <!--
 **manfred-ackermann/manfred-ackermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
